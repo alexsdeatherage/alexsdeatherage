@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing](https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing)
 
-- ⚡ Fun fact **I have a B.S. in Civil Engineering from Cal Poly SLO**
+- ⚡ Fun fact **I have a B.S. in Civil Engineering from Cal Poly SLO and a B.S in Computer Science from OSU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
