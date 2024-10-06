@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deatherage_dev" target="blank"><img align="center" src="https://i.imgur.com/j4rR6Yr.png" alt="deatherage_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alex-deatherage-dev/" target="blank"><img align="center" src="https://i.imgur.com/JFCWzdu.png" alt="alex-deatherage-dev/" height="30" width="40" /></a>
 </p>
 
