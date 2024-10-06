@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsdeatherage" alt="alexsdeatherage" /></a> </p>
 
-- 🔭 I’m currently working on **a Shareable To-do app!**
-
-- 🌱 I’m currently learning **React, SASS, and DS/A**
-
-- 👨‍💻 All of my projects are available at [https://alexsdeatherage.netlify.app/](https://alexsdeatherage.netlify.app/)
-
 - 💬 Ask me about **web technologies, anime, video games, and manga!**
 
-- 📫 How to reach me **alexdeatherage4829@gmail.com**
+- 📫 How to reach me **alexdeatherage4829@gmail.com** (Personal Email) or **alexsdeatherage@gmail.com** (Job Email)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing](https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing)
 
