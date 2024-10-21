@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **alexdeatherage4829@gmail.com** (Personal Email) or **alexsdeatherage@gmail.com** (Job Email)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing](https://drive.google.com/file/d/1FdC7HVeRRxPi1Cf46eEkU0XJhw0HdAab/view?usp=sharing)
-
 - ⚡ Fun fact **I have a B.S. in Civil Engineering from Cal Poly SLO and a B.S in Computer Science from OSU**
 
 <h3 align="left">Connect with me:</h3>
